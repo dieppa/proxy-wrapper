@@ -8,6 +8,7 @@
     <artifactId>proxy-wrapper</artifactId>
     <version>1.0.1-SNAPSHOT</version>
 
+    <name>Proxy wrapper</name>
     <description>Simple Java library for proxying classes without creating new instance</description>
     <url>https://github.com/cloudyrock/proxy-wrapper</url>
 
