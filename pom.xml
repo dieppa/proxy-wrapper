@@ -4,7 +4,7 @@
 
     <groupId>com.github.cloudyrock.proxy</groupId>
     <artifactId>proxy-wrapper</artifactId>
-    <version>1.0.1</version>
+    <version>1.0.2-SNAPSHOT</version>
 
     <name>Proxy wrapper</name>
     <description>Simple Java library for proxying classes without creating new instance</description>
